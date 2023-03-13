@@ -86,7 +86,7 @@ div.campo i{
 }
 
 div.campo input {
-    background-color: #94cfcd;
+    background-color: #ffffff;
     font-size: 1em;
     width: calc(100% - 45px);
     height: 100%;
@@ -142,3 +142,4 @@ form a.botao:hover {
     background-color: #49a09d;
 }
 
+    
